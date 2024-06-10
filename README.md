@@ -1,5 +1,15 @@
 <h3 align="left">Hi 👋! My name is Nosazeme Obabueki  and I'm a A passionate full-stack software engineer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knowsarzehmeh" alt="knowsarzehmeh" /></a> </p>
+
+- 🔭 I’m currently working on **knowledge advancement**
+
+- 🌱 I’m currently learning **Flutter**
+
+- 📫 How to reach me **osarzeh@gmail.com**
+
+- ⚡ Fun fact **I am gamer and also watch tech contents so as to stay up to date with tech trends**
+
 ###
 
 <div align="center">
