@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Nosazeme Obabueki  and I'm a A passionate full-stack software engineer</h3>
+<h3 align="left">Hi 👋! My name is Nosazeme Obabueki  and I'm a passionate full-stack software engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knowsarzehmeh" alt="knowsarzehmeh" /></a> </p>
 
