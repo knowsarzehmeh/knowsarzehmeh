@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **osarzeh@gmail.com**
-
 - ⚡ Fun fact **I am gamer and also watch tech contents so as to stay up to date with tech trends**
 
 ###
